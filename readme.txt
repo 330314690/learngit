@@ -6,4 +6,4 @@ Git tracks changes of files
 change4.
 
 Creating a new branch is quick.
-Creating a new branck is quick & simple.
+Creating a new branch is quick AND simple.
